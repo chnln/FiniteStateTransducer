@@ -1,0 +1,101 @@
+No.0 inf: labefactābās lemma: labefacto feat: V;IND;PST;2;SG;IPFV my_ans: labefactābus ACC;PL;ADJ;FEM weight: 0.0000
+No.1 inf: harundinōsī lemma: harundinosus feat: ADJ;NOM;MASC;PL my_ans: harundinosus MASC;SG;ADJ;GEN weight: 0.0000
+No.2 inf: adenensium lemma: adenensis feat: ADJ;GEN;NEUT;SG my_ans: adenensi ACC;SG;ADJ;NEUT weight: 0.0000
+No.3 inf: naeniae lemma: naenia feat: N;VOC;PL my_ans: naenius SG;ADJ;GEN;FEM weight: 0.0000
+No.4 inf: vēcordissimōs lemma: vecordissimus feat: ADJ;ACC;MASC;PL my_ans: vēcordissimus ACC;PL;MASC;ADJ weight: 0.0000
+No.5 inf: adiantum lemma: adiantum feat: N;NOM;SG my_ans: adiant ACC;SG;ADJ;NEUT weight: 0.0000
+No.6 inf: fēliēbās lemma: felio feat: V;IND;PST;2;SG;IPFV my_ans: fēlio 2;IND;PST;SG;V;IPFV weight: 0.0000
+No.7 inf: sȳcamīnī lemma: sycaminus feat: N;VOC;PL my_ans: sȳcaminus MASC;SG;ADJ;GEN weight: 0.0000
+No.8 inf: substernimur lemma: substerno feat: V;IND;PASS;PRS;1;PL my_ans: substerno PASS;PRS;PL;IND;V;1 weight: 0.0000
+No.9 inf: dēfingēbantur lemma: defingo feat: V;IND;PASS;PST;3;PL;IPFV my_ans: defingēbantur ABL; PL;ADJ weight: 0.0000
+No.10 inf: ecfutuerēmur lemma: ecfutuo feat: V;SBJV;PASS;PST;1;PL;IPFV my_ans: ecfutuerēmur  weight: 0.0000
+No.11 inf: posteritās lemma: posteritas feat: N;NOM;SG my_ans: posteritus ACC;PL;ADJ;FEM weight: 0.0000
+No.12 inf: relevāvimus lemma: relevo feat: V;IND;PST;1;PL;PFV my_ans: relevo PL;IND;PST;PFV;V;1 weight: 0.0000
+No.13 inf: plūmōse lemma: plumosus feat: ADJ;VOC;MASC;SG my_ans: plūmōse  weight: 0.0000
+No.14 inf: praedispōnēbam lemma: praedispono feat: V;IND;PST;1;SG;IPFV my_ans: praedispōnēbus ACC;SG;ADJ;FEM weight: 0.0000
+No.15 inf: conrēgnant lemma: conregno feat: V;IND;PRS;3;PL my_ans: conrēgno PL;IND;3;V;PRS weight: 0.0000
+No.16 inf: ebeninā lemma: ebeninus feat: ADJ;ABL;FEM;SG my_ans: ebeninus ABL;SG;ADJ;FEM weight: 0.0000
+No.17 inf: exsolvam lemma: exsolvo feat: V;SBJV;PRS;1;SG my_ans: exsolvus ACC;SG;ADJ;FEM weight: 0.0000
+No.18 inf: aspīrātiō lemma: aspiratio feat: N;VOC;SG my_ans: aspīratio N;SG;NOM weight: 0.0000
+No.19 inf: iūgeribus lemma: iugerum feat: N;ABL;PL my_ans: iugeris NOM;ABL;N;SG;ADJ;NEUT weight: 0.0000
+No.20 inf: īnfīgere lemma: infigo feat: V;IMP;PASS;PRS;3;SG my_ans: infīgio  PL;PASS;ABL;IMP;3;ADJ;SG;V;PRS weight: 0.0000
+No.21 inf: petessēbantur lemma: petesso feat: V;IND;PASS;PST;3;PL;IPFV my_ans: petessēbantur  weight: 0.0000
+No.22 inf: coadūnābāminī lemma: coaduno feat: V;IND:PASS;PST;2;PL;IPFV my_ans: coadūno 2;PL;PST;IND:PASS;V;IPFV weight: 0.0000
+No.23 inf: participārētur lemma: participo feat: V;SBJV;PASS;PST;3;SG;IPFV my_ans: participo PASS;3;PST;SG;SBJV;V;IPFV weight: 0.0000
+No.24 inf: historicae lemma: historicus feat: ADJ;GEN;FEM;SG my_ans: historicus SG;ADJ;GEN;FEM weight: 0.0000
+No.25 inf: disperde lemma: disperdo feat: V;IMP;PRS;3;SG my_ans: disperde  weight: 0.0000
+No.26 inf: rogātiunculās lemma: rogatiuncula feat: N;ACC;PL my_ans: rogātiunculus ACC;PL;ADJ;FEM weight: 0.0000
+No.27 inf: vērisimillimīs lemma: verisimillimus feat: ADJ;DAT;NEUT;SG my_ans: vērisimillimus SG;ADJ;NEUT;DAT weight: 0.0000
+No.28 inf: Alexandreus lemma: Alexandreus feat: N;NOM;SG my_ans: Alexandreor SG;ADJ;VOC;NEUT weight: 0.0000
+No.29 inf: pervagātius lemma: pervagatior feat: ADJ;NOM;NEUT;SG my_ans: pervagātior SG;ADJ;VOC;NEUT weight: 0.0000
+No.30 inf: capillātūra lemma: capillatura feat: N;VOC;SG my_ans: capillātūrus ACC;PL;ADJ;NEUT weight: 0.0000
+No.31 inf: scatūriēbātis lemma: scaturio feat: V;IND;PST;2;PL;IPFV my_ans: scatūrio 2;PL;IND;PST;V;IPFV weight: 0.0000
+No.32 inf: quassātiōne lemma: quassatio feat: N;ABL;SG my_ans: quassātio ABL;N;SG weight: 0.0000
+No.33 inf: balaustium lemma: balaustium feat: N;NOM;SG my_ans: balausti ACC;SG;ADJ;NEUT weight: 0.0000
+No.34 inf: sēptōrum lemma: septum feat: N;GEN;PL my_ans: septus  PL;ABL;PL;GEN;ADJ;MASC weight: 0.0000
+No.35 inf: antiochēnārum lemma: antiochenus feat: ADJ;GEN;FEM;PL my_ans: antiochēnarus ACC;SG;ADJ;NEUT weight: 0.0000
+No.36 inf: līāverit lemma: lio feat: V;IND;FUT;3;SG;PRF my_ans: lio ACC;PL;PST;3;ADJ;SG;PFV;SBJV;V;NEUT weight: 0.0025
+No.37 inf: cōnsecrābam lemma: consecro feat: V;IND;PST;1;SG;IPFV my_ans: consecro IND;PST;SG;ADJ;V;IPFV;1;NEUT;DAT weight: 0.0000
+No.38 inf: reprobās lemma: reprobo feat: V;IND;PRS;2;SG my_ans: reprobus ACC;PL;ADJ;FEM weight: 0.0000
+No.39 inf: stercorātiōnem lemma: stercoratio feat: N;ACC;SG my_ans: stercoratio ACC;N;SG weight: 0.0000
+No.40 inf: intribulātus lemma: intribulatus feat: ADJ;NOM;MASC;SG my_ans: intribulātor SG;ADJ;VOC;NEUT weight: 0.0000
+No.41 inf: mandarinicōrum lemma: mandarinicus feat: ADJ;GEN;NEUT;PL my_ans: mandarinicus MASC;PL;ADJ;GEN weight: 0.0000
+No.42 inf: dēdolāns lemma: dedolo feat: V.PTCP;PRS my_ans: dedolo V.PTCP; PL;ABL;ADJ;PRS weight: 0.0000
+No.43 inf: miserāris lemma: misero feat: V;IND;PASS;PRS;2;SG my_ans: misero PASS;2;IND;SG;V;PRS weight: 0.0000
+No.44 inf: praetervolāverint lemma: praetervolo feat: V;IND;FUT;3;PL;PRF my_ans: praetervolo PL;IND;3;FUT;PRF;V weight: 0.0000
+No.45 inf: blitum lemma: blitum feat: N;ACC;SG my_ans: blit ACC;SG;ADJ;NEUT weight: 0.0000
+No.46 inf: bancanā lemma: bancanus feat: ADJ;ABL;FEM;SG my_ans: bancanus ABL;SG;ADJ;FEM weight: 0.0000
+No.47 inf: Brūnsvīcēnsis lemma: Brunsvicensis feat: ADJ;VOC;MASC/FEM;SG my_ans: Brūnsvīcēnse N;SG;GEN weight: 0.0000
+No.48 inf: appositiōnis lemma: appositio feat: N;GEN;SG my_ans: appositio N;SG;GEN weight: 0.0000
+No.49 inf: succumbēmur lemma: succumbo feat: V;IND;PASS;FUT;1;PL my_ans: succumbēmur  weight: 0.0000
+No.50 inf: cōnspurcārem lemma: conspurco feat: V;SBJV;PST;1;SG;IPFV my_ans: conspurco PST;SG;ADJ;SBJV;V;IPFV;1;NEUT;DAT weight: 0.0000
+No.51 inf: fūnī lemma: funis feat: N;DAT;SG my_ans: fūnis ABL;SG;MASC/FEM;ADJ weight: 0.0000
+No.52 inf: subventō lemma: subvento feat: V;IND;PRS;1;SG my_ans: subventus ABL;SG;MASC;ADJ weight: 0.0000
+No.53 inf: frīgidātiōne lemma: frigidatio feat: N;ABL;SG my_ans: frīgidātio ABL;N;SG weight: 0.0000
+No.54 inf: īnfāmem lemma: infamis feat: ADJ;ACC;MASC/FEM;SG my_ans: infāmis  PL;ABL;ACC;MASC/FEM;ADJ;SG weight: 0.0000
+No.55 inf: colōnārie lemma: colonarius feat: ADJ;VOC;MASC;SG my_ans: colōnārie  weight: 0.0000
+No.56 inf: silvicolī lemma: silvicolus feat: ADJ;NOM;MASC;PL my_ans: silvicolis ABL;SG;MASC/FEM;ADJ weight: 0.0000
+No.57 inf: permodicō lemma: permodicus feat: ADJ;DAT;MASC;SG my_ans: permodicus ABL;SG;MASC;ADJ weight: 0.0000
+No.58 inf: occlūsissent lemma: occludo feat: V;SBJV;PST;3;PL;PRF my_ans: occlūtio PL;PST;3;PRF;SBJV;V weight: 0.0000
+No.59 inf: nōbilitāverō lemma: nobilito feat: V;IND;FUT;1;SG;PRF my_ans: nobilitāverus ABL;SG;ADJ;VOC;MASC weight: 0.0000
+No.60 inf: dēfricātiō lemma: defricatio feat: N;NOM;SG my_ans: defricatio  PL;NOM;ABL;N;ADJ;SG weight: 0.0000
+No.61 inf: effrēnātīs lemma: effrenatus feat: ADJ;DAT;NEUT;SG my_ans: effrēnates PL;N;DAT weight: 0.0000
+No.62 inf: exsuperārer lemma: exsupero feat: V;SBJV;PASS;PST;1;SG;IPFV my_ans: exsuperārer  weight: 0.0000
+No.63 inf: saburrae lemma: saburra feat: N;DAT;SG my_ans: saburer PL;ADJ;FEM;NOM weight: 0.0000
+No.64 inf: celsa lemma: celsus feat: ADJ;VOC;NEUT;PL my_ans: celsus ACC;PL;ADJ;NEUT weight: 0.0000
+No.65 inf: libycus lemma: libycus feat: ADJ;NOM;MASC;SG my_ans: libycor SG;ADJ;VOC;NEUT weight: 0.0000
+No.66 inf: trānsitūs lemma: transitus feat: N;VOC;PL my_ans: transitus 2;PL;IND;N;VOC;V;PRS weight: 0.0000
+No.67 inf: abligūrīvit lemma: abligurio feat: V;IND;PST;3;SG;PFV my_ans: abligūrīvo IND;3;SG;V;PRS weight: 0.0000
+No.68 inf: masculātus lemma: masculatus feat: ADJ;NOM;MASC;SG my_ans: masculātor SG;ADJ;VOC;NEUT weight: 0.0000
+No.69 inf: exōtice lemma: exoticus feat: ADJ;VOC;MASC;SG my_ans: exōtice  weight: 0.0000
+No.70 inf: adaequātum lemma: adaequatus feat: ADJ;ACC;NEUT;SG my_ans: adaequatus SG;ADJ;NEUT;NOM weight: 0.0000
+No.71 inf: texana lemma: texanus feat: ADJ;VOC;FEM;SG my_ans: texana N;SG;VOC weight: 0.0000
+No.72 inf: trānsvertissēmus lemma: transverto feat: V;SBJV;PST;1;PL;PRF my_ans: transvertisso 2;1;PL;IND;FUT;V;PRS weight: 0.0000
+No.73 inf: mundāminī lemma: mundo feat: V;IND;PASS;PRS;2;PL my_ans: mundo PASS;PL;IMP;3;V;PRS weight: 0.0000
+No.74 inf: improbitātēs lemma: improbitas feat: N;VOC;PL my_ans: improbitas ACC;PL;N weight: 0.0000
+No.75 inf: vetābātur lemma: veto feat: V;IND;PASS;PST;3;SG;IPFV my_ans: vetābo PASS;IND;3;SG;V;PRS weight: 0.0000
+No.76 inf: pellexerō lemma: pellicio feat: V;IND;FUT;1;SG;PRF my_ans: pellexerus ABL;SG;MASC;ADJ weight: 0.0000
+No.77 inf: adhaesiōnī lemma: adhaesio feat: N;DAT;SG my_ans: adhaesio N;SG;DAT weight: 0.0000
+No.78 inf: volitāvī lemma: volito feat: V;IND;PST;1;SG;PFV my_ans: volito IND;PST;SG;PFV;V;1 weight: 0.0000
+No.79 inf: sevēritūdō lemma: severitudo feat: N;NOM;SG my_ans: sevēritūdo PRS;IND;SG;V;1 weight: 0.0000
+No.80 inf: refrēnētur lemma: refreno feat: V;SBJV;PASS;PRS;3;SG my_ans: refrēno PASS;IND;3;FUT;SG;V weight: 0.0000
+No.81 inf: tābidulīs lemma: tabidulus feat: ADJ;ABL; PL my_ans: tābidulus ABL; PL;ADJ weight: 0.0000
+No.82 inf: sisymbriōrum lemma: sisymbrium feat: N;GEN;PL my_ans: sisymbrius MASC;PL;ADJ;GEN weight: 0.0000
+No.83 inf: attractāverint lemma: attracto feat: V;SBJV;PST;3;PL;PFV my_ans: attracto PL;IND;3;FUT;PRF;V weight: 0.0000
+No.84 inf: dehausissēmus lemma: dehaurio feat: V;SBJV;PST;1;PL;PRF my_ans: dehausisso PL;IND;FUT;V;1 weight: 0.0000
+No.85 inf: adsocior lemma: adsocio feat: V;IND;PASS;PRS;1;SG my_ans: adsocior  weight: 0.0000
+No.86 inf: āvertāris lemma: averto feat: V;SBJV;PASS;PRS;2;SG my_ans: averto PASS;2;FEM;IND;SG;ADJ;V;PRS;DAT weight: 0.0000
+No.87 inf: foetidī lemma: foetidus feat: ADJ;NOM;MASC;PL my_ans: foetidis ABL;SG;MASC/FEM;ADJ weight: 0.0000
+No.88 inf: spathācea lemma: spathaceus feat: ADJ;VOC;FEM;SG my_ans: spathāceus ACC;PL;ADJ;NEUT weight: 0.0000
+No.89 inf: faliscī lemma: faliscus feat: ADJ;GEN;MASC;SG my_ans: faliscis ABL;SG;MASC/FEM;ADJ weight: 0.0000
+No.90 inf: hydruntinum lemma: hydruntinus feat: ADJ;ACC;MASC;SG my_ans: hydrunten PL;N;GEN weight: 0.0000
+No.91 inf: asserviēbāminī lemma: asservio feat: V;IND:PASS;PST;2;PL;IPFV my_ans: asservio 2;PL;PST;IND:PASS;V;IPFV weight: 0.0000
+No.92 inf: Casīnēnse lemma: Casinensis feat: ADJ;VOC;NEUT;SG my_ans: Casīnēnse  weight: 0.0000
+No.93 inf: veriverbium lemma: veriverbium feat: N;VOC;SG my_ans: veriverbi ACC;SG;ADJ;NEUT weight: 0.0000
+No.94 inf: fundō lemma: fundus feat: N;DAT;SG my_ans: fundo PRS;IND;SG;V;1 weight: 0.0000
+No.95 inf: obtunderer lemma: obtundo feat: V;SBJV;PASS;PST;1;SG;IPFV my_ans: obtundo PASS;PST;SG;SBJV;V;IPFV;1 weight: 0.0000
+No.96 inf: lēctissimō lemma: lectissimus feat: ADJ;ABL;NEUT;SG my_ans: lectissimus SG;ADJ;VOC;MASC;NEUT;DAT weight: 0.0001
+No.97 inf: īnsāniīs lemma: insania feat: N;ACC;PL my_ans: insānius ABL; PL;ADJ weight: 0.0000
+No.98 inf: bellātōrium lemma: bellatorius feat: ADJ;VOC;NEUT;SG my_ans: bellātorius SG;ADJ;NEUT;NOM weight: 0.0000
+No.99 inf: līterā lemma: litera feat: N;ABL;SG my_ans: literus ACC;PL;ABL;FEM;ADJ;SG;NEUT weight: 0.0000
+language: latin 正确率（仅匹配lemma）： 0.3000

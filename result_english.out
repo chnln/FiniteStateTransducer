@@ -1,0 +1,101 @@
+No.0 inf: ungendered lemma: ungender feat: V;V.PTCP;PST my_ans: ungender V;PST weight: 0.0000
+No.1 inf: begraves lemma: begrave feat: V;3;SG;PRS my_ans: begrave V;3;PRS;SG weight: 0.0000
+No.2 inf: crawled lemma: crawl feat: V;V.PTCP;PST my_ans: crawl V;PST weight: 0.0000
+No.3 inf: stumed lemma: stum feat: V;PST my_ans: stum V;PST weight: 0.0000
+No.4 inf: retrospected lemma: retrospect feat: V;PST my_ans: retrospect V;PST weight: 0.0000
+No.5 inf: catted lemma: cat feat: V;V.PTCP;PST my_ans: catt V;PST weight: 0.0000
+No.6 inf: remodels lemma: remodel feat: V;3;SG;PRS my_ans: remodel V;3;PRS;SG weight: 0.0000
+No.7 inf: exotified lemma: exotify feat: V;V.PTCP;PST my_ans: exotifi V;PST weight: 0.0000
+No.8 inf: tracheotomizing lemma: tracheotomize feat: V;V.PTCP;PRS my_ans: tracheotomize V;PRS;V.PTCP weight: 0.0000
+No.9 inf: surtitle lemma: surtitle feat: V;NFIN my_ans: surtitle  weight: 0.0000
+No.10 inf: busied lemma: busy feat: V;PST my_ans: busi V;PST weight: 0.0000
+No.11 inf: underlain lemma: underlie feat: V;V.PTCP;PST my_ans: underlain  weight: 0.0000
+No.12 inf: empearling lemma: empearl feat: V;V.PTCP;PRS my_ans: empearle V;PRS;V.PTCP weight: 0.0000
+No.13 inf: burkes lemma: burke feat: V;3;SG;PRS my_ans: burke V;3;PRS;SG weight: 0.0000
+No.14 inf: interracializing lemma: interracialize feat: V;V.PTCP;PRS my_ans: interracialize V;PRS;V.PTCP weight: 0.0000
+No.15 inf: necessitated lemma: unnecessitate feat: V;V.PTCP;PST my_ans: necessitat V;PST weight: 0.0000
+No.16 inf: ballyragged lemma: ballyrag feat: V;V.PTCP;PST my_ans: ballyragg V;PST weight: 0.0000
+No.17 inf: ziplined lemma: zipline feat: V;PST my_ans: ziplin V;PST weight: 0.0000
+No.18 inf: contaminates lemma: contaminate feat: V;3;SG;PRS my_ans: contaminate V;3;PRS;SG weight: 0.0000
+No.19 inf: dybbing lemma: dyb feat: V;V.PTCP;PRS my_ans: dybbe V;PRS;V.PTCP weight: 0.0001
+No.20 inf: inrailed lemma: inrail feat: V;V.PTCP;PST my_ans: inrail V;PST weight: 0.0000
+No.21 inf: cere lemma: cere feat: V;NFIN my_ans: cere  weight: 0.0000
+No.22 inf: discumbers lemma: discumber feat: V;3;SG;PRS my_ans: discumber V;3;PRS;SG weight: 0.0000
+No.23 inf: attack lemma: attack feat: V;NFIN my_ans: attack  weight: 0.0000
+No.24 inf: palsied lemma: palsy feat: V;V.PTCP;PST my_ans: palsi V;PST weight: 0.0000
+No.25 inf: idolise lemma: idolise feat: V;NFIN my_ans: idolise  weight: 0.0000
+No.26 inf: kitemark lemma: kitemark feat: V;NFIN my_ans: kitemark  weight: 0.0000
+No.27 inf: gamemaster lemma: gamemaster feat: V;NFIN my_ans: gamemaster  weight: 0.0000
+No.28 inf: tyned lemma: tyne feat: V;V.PTCP;PST my_ans: tyn V;PST weight: 0.0005
+No.29 inf: vyes lemma: vye feat: V;3;SG;PRS my_ans: vye V;3;PRS;SG weight: 0.0011
+No.30 inf: indures lemma: indure feat: V;3;SG;PRS my_ans: indure V;3;PRS;SG weight: 0.0000
+No.31 inf: angling lemma: angle feat: V;V.PTCP;PRS my_ans: angle V;PRS;V.PTCP weight: 0.0001
+No.32 inf: remarketed lemma: remarket feat: V;PST my_ans: remarket V;PST weight: 0.0000
+No.33 inf: bequotes lemma: bequote feat: V;3;SG;PRS my_ans: bequote V;3;PRS;SG weight: 0.0000
+No.34 inf: inlocked lemma: inlock feat: V;V.PTCP;PST my_ans: inlock V;PST weight: 0.0000
+No.35 inf: optimise lemma: optimise feat: V;NFIN my_ans: optimise  weight: 0.0000
+No.36 inf: administer lemma: administer feat: V;NFIN my_ans: administer  weight: 0.0000
+No.37 inf: reëmbarked lemma: reëmbark feat: V;V.PTCP;PST my_ans: reëmbark V;PST weight: 0.0000
+No.38 inf: postilling lemma: postil feat: V;V.PTCP;PRS my_ans: postille V;PRS;V.PTCP weight: 0.0000
+No.39 inf: bluejacked lemma: bluejack feat: V;V.PTCP;PST my_ans: bluejack V;PST weight: 0.0000
+No.40 inf: billhooked lemma: billhook feat: V;PST my_ans: billhook V;PST weight: 0.0000
+No.41 inf: indenize lemma: indenize feat: V;NFIN my_ans: indenize  weight: 0.0000
+No.42 inf: enclouding lemma: encloud feat: V;V.PTCP;PRS my_ans: encloude V;PRS;V.PTCP weight: 0.0000
+No.43 inf: part-financing lemma: part-finance feat: V;V.PTCP;PRS my_ans: part-finance V;PRS;V.PTCP weight: 0.0000
+No.44 inf: harboured lemma: harbour feat: V;PST my_ans: harbour V;PST weight: 0.0000
+No.45 inf: gigantify lemma: gigantify feat: V;NFIN my_ans: gigantify  weight: 0.0000
+No.46 inf: breach lemma: breach feat: V;NFIN my_ans: breach  weight: 0.0000
+No.47 inf: corrupt lemma: corrupt feat: V;NFIN my_ans: corruep V;PST weight: 0.0000
+No.48 inf: oxygenised lemma: oxygenise feat: V;PST my_ans: oxygenis V;PST weight: 0.0000
+No.49 inf: attainting lemma: attaint feat: V;V.PTCP;PRS my_ans: attainte V;PRS;V.PTCP weight: 0.0000
+No.50 inf: putrified lemma: putrify feat: V;PST my_ans: putrifi V;PST weight: 0.0000
+No.51 inf: abrooks lemma: abrook feat: V;3;SG;PRS my_ans: abrook V;3;PRS;SG weight: 0.0000
+No.52 inf: controversed lemma: controverse feat: V;V.PTCP;PST my_ans: controvers V;PST weight: 0.0000
+No.53 inf: flopping lemma: flop feat: V;V.PTCP;PRS my_ans: floppe V;PRS;V.PTCP weight: 0.0000
+No.54 inf: war-drove lemma: war-drive feat: V;PST my_ans: war-drove  weight: 0.0000
+No.55 inf: philosophized lemma: philosophize feat: V;V.PTCP;PST my_ans: philosophiz V;PST weight: 0.0000
+No.56 inf: matronised lemma: matronise feat: V;V.PTCP;PST my_ans: matronis V;PST weight: 0.0000
+No.57 inf: handseled lemma: handsel feat: V;V.PTCP;PST my_ans: handsel V;PST weight: 0.0000
+No.58 inf: starbirds lemma: starbird feat: V;3;SG;PRS my_ans: starbird V;3;PRS;SG weight: 0.0000
+No.59 inf: book-kept lemma: book-keep feat: V;PST my_ans: book-keep V;PST weight: 0.0000
+No.60 inf: pronounce lemma: pronounce feat: V;NFIN my_ans: pronounce  weight: 0.0000
+No.61 inf: strangered lemma: stranger feat: V;PST my_ans: stranger V;PST weight: 0.0000
+No.62 inf: phagocytizes lemma: phagocytize feat: V;3;SG;PRS my_ans: phagocytize V;3;PRS;SG weight: 0.0000
+No.63 inf: subclasses lemma: subclass feat: V;3;SG;PRS my_ans: subclasse V;3;PRS;SG weight: 0.0000
+No.64 inf: rebaptized lemma: rebaptize feat: V;V.PTCP;PST my_ans: rebaptiz V;PST weight: 0.0000
+No.65 inf: encored lemma: encore feat: V;PST my_ans: encor V;PST weight: 0.0000
+No.66 inf: galvanised lemma: galvanise feat: V;V.PTCP;PST my_ans: galvanis V;PST weight: 0.0000
+No.67 inf: adeemed lemma: adeem feat: V;PST my_ans: adeem V;PST weight: 0.0000
+No.68 inf: officiated lemma: officiate feat: V;PST my_ans: officiat V;PST weight: 0.0000
+No.69 inf: metastasised lemma: metastasise feat: V;PST my_ans: metastasis V;PST weight: 0.0000
+No.70 inf: all-hailing lemma: all-hail feat: V;V.PTCP;PRS my_ans: all-haile V;PRS;V.PTCP weight: 0.0000
+No.71 inf: girlify lemma: girlify feat: V;NFIN my_ans: girlify  weight: 0.0000
+No.72 inf: reserializes lemma: reserialize feat: V;3;SG;PRS my_ans: reserialize V;3;PRS;SG weight: 0.0000
+No.73 inf: disprejudices lemma: disprejudice feat: V;3;SG;PRS my_ans: disprejudice V;3;PRS;SG weight: 0.0000
+No.74 inf: pipettes lemma: pipette feat: V;3;SG;PRS my_ans: pipette V;3;PRS;SG weight: 0.0000
+No.75 inf: demagnetises lemma: demagnetise feat: V;3;SG;PRS my_ans: demagnetise V;3;PRS;SG weight: 0.0000
+No.76 inf: unciphers lemma: uncipher feat: V;3;SG;PRS my_ans: uncipher V;3;PRS;SG weight: 0.0000
+No.77 inf: repromoting lemma: repromote feat: V;V.PTCP;PRS my_ans: repromote V;PRS;V.PTCP weight: 0.0000
+No.78 inf: hot-wiring lemma: hot-wire feat: V;V.PTCP;PRS my_ans: hot-wire V;PRS;V.PTCP weight: 0.0000
+No.79 inf: excambed lemma: excamb feat: V;V.PTCP;PST my_ans: excamb V;PST weight: 0.0000
+No.80 inf: recollapse lemma: recollapse feat: V;NFIN my_ans: recollapse  weight: 0.0000
+No.81 inf: retailor lemma: retailor feat: V;NFIN my_ans: retailor  weight: 0.0000
+No.82 inf: editorialising lemma: editorialise feat: V;V.PTCP;PRS my_ans: editorialise V;PRS;V.PTCP weight: 0.0000
+No.83 inf: wern lemma: wern feat: V;NFIN my_ans: wern  weight: 0.0000
+No.84 inf: unchoosing lemma: unchoose feat: V;V.PTCP;PRS my_ans: unchoose V;PRS;V.PTCP weight: 0.0000
+No.85 inf: linearizing lemma: linearize feat: V;V.PTCP;PRS my_ans: linearize V;PRS;V.PTCP weight: 0.0000
+No.86 inf: crumb lemma: crumb feat: V;NFIN my_ans: crumb  weight: 0.0000
+No.87 inf: regorge lemma: regorge feat: V;NFIN my_ans: regorge  weight: 0.0000
+No.88 inf: mutilate lemma: mutilate feat: V;NFIN my_ans: mutilate  weight: 0.0000
+No.89 inf: deducted lemma: deduct feat: V;PST my_ans: deduct V;PST weight: 0.0000
+No.90 inf: mortalize lemma: mortalize feat: V;NFIN my_ans: mortalize  weight: 0.0000
+No.91 inf: atrouted lemma: atrout feat: V;V.PTCP;PST my_ans: atrout V;PST weight: 0.0000
+No.92 inf: repopularised lemma: repopularise feat: V;PST my_ans: repopularis V;PST weight: 0.0000
+No.93 inf: clitoridectomized lemma: clitoridectomize feat: V;V.PTCP;PST my_ans: clitoridectomiz V;PST weight: 0.0000
+No.94 inf: LOL'd lemma: LOL feat: V;PST my_ans: LOL' V;PST weight: 0.0001
+No.95 inf: breams lemma: bream feat: V;3;SG;PRS my_ans: bream V;3;PRS;SG weight: 0.0000
+No.96 inf: withgo lemma: withgo feat: V;NFIN my_ans: withgo  weight: 0.0000
+No.97 inf: unclued lemma: unclue feat: V;V.PTCP;PST my_ans: unclu V;PST weight: 0.0000
+No.98 inf: gloved lemma: glove feat: V;V.PTCP;PST my_ans: glov V;PST weight: 0.0000
+No.99 inf: phonemicized lemma: phonemicize feat: V;V.PTCP;PST my_ans: phonemiciz V;PST weight: 0.0000
+language: english 正确率（仅匹配lemma）： 0.6500

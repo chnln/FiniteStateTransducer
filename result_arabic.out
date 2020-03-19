@@ -1,0 +1,101 @@
+No.0 inf: الْمِسْكِين lemma: الْمِسْكِين feat: ADJ;SG;MASC;DEF;INFM my_ans: مِسْكٌ ACC;INFM;DEF;SG;DU;N weight: 0.0000
+No.1 inf: الْجَاهِلَ lemma: الْجَاهِل feat: ADJ;SG;MASC;DEF;ACC my_ans: جَاهِلَ ACC;PL;DEF;1;DU;PASS;V;N;SBJV weight: 0.0000
+No.2 inf: أَدْنِيَاءُ lemma: الدَّنِيء feat: ADJ;PL;MASC;NDEF;NOM my_ans: دْنِيَاء MASC;NDEF;NOM;SG;DEF;ADJ;PL;N weight: 0.0000
+No.3 inf: الْأَمْهَرِيَّةِ lemma: الْأَمْهَرِي feat: ADJ;SG;FEM;DEF;GEN my_ans: مْهَرِي ACC;GEN;DEF;SG;ADJ;PL;N;FEM weight: 0.0000
+No.4 inf: تُصَحِّحَا lemma: صَحَّحَ feat: V;3;DU;FEM;LGSPEC1;ACT my_ans: صَحِّ IPFV;MASC;2;DU;3;ACT;IND;PASS;V;LGSPEC1 weight: 0.0000
+No.5 inf: تَفَاهُمٌ lemma: تَفَاهُمٌ feat: N;SG;NDEF;NOM my_ans: التَّفَاهُمٌ GEN;NDEF;DU;ADJ;FEM weight: 0.0000
+No.6 inf: يَفْتَقِرُو lemma: اِفْتَقَرَ feat: V;3;PL;MASC;LGSPEC1;ACT my_ans: اِفْتَقَرَ MASC;IPFV;2;PL;DU;3;ACT;IND;V;IMP weight: 0.0000
+No.7 inf: اُسْتُحْمِلْتُمْ lemma: اِسْتَحْمَلَ feat: V;2;PL;MASC;PST;PRF;IND;PASS my_ans: اِسْتُحْمِلَ MASC;2;PL;1;PRF;ACT;PST;IND;PASS;V weight: 0.0000
+No.8 inf: الزَّنَابِير lemma: زُنْبُورٌ feat: N;PL;DEF;INFM my_ans: زَنَابِير SG;N;GEN;DEF weight: 0.0000
+No.9 inf: الْمَازِجُ lemma: مَازِجٌ feat: N;SG;DEF;NOM my_ans: مَازِج MASC;ACC;DEF;SG;NOM;DU;ADJ;N weight: 0.0000
+No.10 inf: الْإِبِلِ lemma: إِبِلٌ feat: N;SG;DEF;GEN my_ans: إِبِلِ ACC;DEF;N;DU weight: 0.0000
+No.11 inf: يُقَمْقَمُو lemma: قَمْقَمَ feat: V;3;PL;MASC;LGSPEC1;PASS my_ans: قَمْقَمٌ MASC;IPFV;PL;NOM;DU;3;ACT;PSSD;IND;V;N weight: 0.0000
+No.12 inf: اِحْقِيقَافَ lemma: اِحْقِيقَافٌ feat: N;SG;PSSD;ACC my_ans: حْقِيقَاف MASC;ACC;2;DEF;DU;ACT;ADJ;V;SG;IMP weight: 0.0000
+No.13 inf: يُذِيعُ lemma: أَذَاعَ feat: V;3;SG;MASC;IPFV;IND;ACT my_ans: ذِيع MASC;IPFV;DEF;NOM;DU;3;ACT;IND;ADJ;V;SG weight: 0.0000
+No.14 inf: مَاطِرَة lemma: الْمَاطِر feat: ADJ;SG;FEM;NDEF;INFM my_ans: مَاطٌِ SG;N;DEF;INFM weight: 0.0000
+No.15 inf: التَّشْرِيعِيَّتَيْنِ lemma: التَّشْرِيعِي feat: ADJ;DU;FEM;DEF;ACC my_ans: تَشْرِيعِيعِي ACC;GEN;NDEF;DEF;DU;ADJ;N;SG;FEM weight: 0.0000
+No.16 inf: الثَّعْلَبَة lemma: ثَعْلَبَةٌ feat: N;SG;DEF;INFM my_ans: ثَّعْلَب INFM;DEF;NOM;SG;DU;ADJ;N;FEM weight: 0.0000
+No.17 inf: تُخْرَآ lemma: خَرِئَ feat: V;2;DU;SBJV;PASS my_ans: خْرَآ IPFV;2;DU;ACT;IND;V weight: 0.0000
+No.18 inf: تَنْقَرِضَا lemma: اِنْقَرَضَ feat: V;3;DU;FEM;SBJV;ACT my_ans: التَّنْقَرِضَ MASC;GEN;NDEF;DU;3;PASS;ADJ;V;FEM;LGSPEC1 weight: 0.0000
+No.19 inf: الْحِزَام lemma: حِزَامٌ feat: N;SG;DEF;INFM my_ans: حِزَام ACC;DEF;N;DU weight: 0.0000
+No.20 inf: الْمِفْتَاحُ lemma: مِفْتَاحٌ feat: N;SG;DEF;NOM my_ans: مِفْتَاح MASC;ACC;DEF;SG;NOM;DU;ADJ;N weight: 0.0000
+No.21 inf: تَعْتَزِمَانِ lemma: اِعْتَزَمَ feat: V;3;DU;FEM;IPFV;IND;ACT my_ans: التَّعْتَزِموَس MASC;GEN;NDEF;NOM;DU;ADJ;FEM weight: 0.0000
+No.22 inf: إِفْلَاح lemma: إِفْلَاحٌ feat: N;SG;PSSD;INFM my_ans: إِفْلَاح  weight: 0.0000
+No.23 inf: يَسْتَحْمِمْنَ lemma: اِسْتَحَمَّ feat: V;3;PL;FEM;IPFV;IND;ACT my_ans: اِسْتَحْمِمْنَ MASC;IPFV;PL;1;DU;3;ACT;IND;PASS;V;SBJV weight: 0.0000
+No.24 inf: اِنْكَشَفَ lemma: اِنْكَشَفَ feat: V;3;SG;MASC;PST;PRF;IND;ACT my_ans: نْكَشَف MASC;ACC;2;DEF;DU;ACT;ADJ;V;SG;IMP weight: 0.0000
+No.25 inf: أُحَرِّرَ lemma: حَرَّرَ feat: V;1;SG;SBJV;ACT my_ans: أَحَرِّ PL;1;PRF;PST;IND;PASS;V;SG;SBJV weight: 0.0000
+No.26 inf: الْعُطُولُ lemma: عُطُولٌ feat: N;SG;DEF;NOM my_ans: عُطُول MASC;ACC;DEF;SG;NOM;DU;ADJ;N weight: 0.0000
+No.27 inf: تُكَالِمِينَ lemma: كَالَمَ feat: V;2;SG;FEM;IPFV;IND;ACT my_ans: كَالِمِّر IPFV;MASC;ACC;2;PL;NDEF;DU;ACT;IND;ADJ;V weight: 0.0000
+No.28 inf: مُخَاطٌ lemma: مُخَاطٌ feat: N;SG;NDEF;NOM my_ans: اِخَاطٌ V.PTCP;V;ACT weight: 0.0000
+No.29 inf: مِحْرَاب lemma: مِحْرَابٌ feat: N;SG;PSSD;INFM my_ans: مِحْرَاب  weight: 0.0000
+No.30 inf: يُنَاقَشَا lemma: نَاقَشَ feat: V;3;DU;MASC;SBJV;PASS my_ans: نَاقَشٌ MASC;IPFV;NOM;DU;3;ACT;PSSD;IND;V;N weight: 0.0000
+No.31 inf: يُفَتَّشَا lemma: فَتَّشَ feat: V;3;DU;MASC;LGSPEC1;PASS my_ans: فَتَّشٌ MASC;IPFV;NOM;DU;3;ACT;PSSD;IND;V;N weight: 0.0000
+No.32 inf: النَّفِيسَيْنِ lemma: النَّفِيس feat: ADJ;DU;MASC;DEF;GEN my_ans: نَفِيس MASC;ACC;INFM;DEF;DU;ADJ;N weight: 0.0000
+No.33 inf: غَابَتْ lemma: غَابَ feat: V;3;SG;FEM;PST;PRF;IND;ACT my_ans: غَابَ PRF;3;ACT;PST;IND;V;SG;FEM weight: 0.0000
+No.34 inf: قُزِيمِيَّتَيْنِ lemma: الْقُزِيمِي feat: ADJ;DU;FEM;NDEF;ACC my_ans: قُزِيمِيعِي GEN;NDEF;DU;ADJ;FEM weight: 0.0000
+No.35 inf: حَيَاء lemma: حَيَاءٌ feat: N;SG;NDEF;INFM my_ans: حَيَاء  weight: 0.0000
+No.36 inf: أَرُومَةِ lemma: أَرُومَةٌ feat: N;SG;PSSD;GEN my_ans: رُوم GEN;NDEF;NOM;SG;DEF;ADJ;PL;N;FEM weight: 0.0000
+No.37 inf: الْحُفُوفُ lemma: حُفُوفٌ feat: N;SG;DEF;NOM my_ans: حُفُوف MASC;ACC;DEF;SG;NOM;DU;ADJ;N weight: 0.0000
+No.38 inf: تُفَلْسِفْنَ lemma: فَلْسَفَ feat: V;2;PL;FEM;IPFV;IND;ACT my_ans: فَلْسِفْنَ IPFV;2;PL;1;DU;ACT;IND;PASS;V;SBJV weight: 0.0000
+No.39 inf: كَامِلَات lemma: الْكَامِل feat: ADJ;PL;FEM;NDEF;INFM my_ans: كَامِل INFM;DEF;ADJ;PL;FEM weight: 0.0000
+No.40 inf: تَسَرَّ lemma: تَسَرَّى feat: V;2;SG;MASC;IMP;ACT my_ans: التَّسَر MASC;ACC;GEN;NDEF;DEF;DU;ADJ;SG;FEM weight: 0.0000
+No.41 inf: شِغَالُ lemma: شِغَالٌ feat: N;SG;PSSD;NOM my_ans: شِغَال MASC;DEF;NOM;ADJ;SG weight: 0.0000
+No.42 inf: الْمُشْمِسَةَ lemma: الْمُشْمِس feat: ADJ;SG;FEM;DEF;ACC my_ans: مُشْمِس ACC;DEF;SG;DU;ADJ;N;FEM weight: 0.0000
+No.43 inf: أَنِيقَيْنِ lemma: الْأَنِيق feat: ADJ;DU;MASC;NDEF;ACC my_ans: نِيق MASC;ACC;NDEF;NOM;DEF;DU;ADJ;PL;N weight: 0.0000
+No.44 inf: بُرْءَى lemma: الْأَبْرَأ feat: ADJ;SG;FEM;NDEF;NOM my_ans: بُرْءَى IPFV;PL;1;IND;PASS;V weight: 0.0000
+No.45 inf: الْإِبْلِيسِيِّينَ lemma: الْإِبْلِيسِي feat: ADJ;PL;MASC;DEF;GEN my_ans: إِبْلِيسِي MASC;ACC;GEN;DEF;DU;ADJ;PL;N weight: 0.0000
+No.46 inf: الْمُمَثِّلَتَيْنِ lemma: مُمَثِّلَةٌ feat: N;DU;DEF;ACC my_ans: مُمَثِّل ACC;GEN;DEF;DU;ADJ;N;FEM weight: 0.0000
+No.47 inf: مُسْتَثْنَاة lemma: الْمُسْتَثْنَى feat: ADJ;SG;FEM;NDEF;INFM my_ans: اِسْتَثْنَاة V.PTCP;V;ACT weight: 0.0000
+No.48 inf: أُيُورَ lemma: أَيْرٌ feat: N;PL;PSSD;ACC my_ans: أَيُو PL;1;PRF;PST;IND;PASS;V;SG;SBJV weight: 0.0000
+No.49 inf: مُوَسْوَس lemma: وَسْوَسَ feat: V;V.PTCP;PASS my_ans: اِوَسْوَس V.PTCP;V;ACT weight: 0.0000
+No.50 inf: أُبِينَا lemma: أَبَى feat: V;1;PL;PST;PRF;IND;PASS my_ans: أَبِي 2;PL;1;PRF;DU;PST;IND;PASS;V;LGSPEC1 weight: 0.0000
+No.51 inf: مُثِير lemma: أَثَارَ feat: V;V.PTCP;ACT my_ans: اِثِير V.PTCP;V;ACT weight: 0.0000
+No.52 inf: تُسْتَرَدَّا lemma: اِسْتَرَدَّ feat: V;2;DU;SBJV;PASS my_ans: سْتَرَد IPFV;2;DU;3;ACT;IND;PASS;V;FEM;LGSPEC1 weight: 0.0000
+No.53 inf: ضَيِّعْ lemma: ضَيَّعَ feat: V;2;SG;MASC;IMP;ACT my_ans: ضَيِّعْ  weight: 0.0000
+No.54 inf: شِغَال lemma: شِغَالٌ feat: N;SG;NDEF;INFM my_ans: شِغٌ SG;N;DEF;INFM weight: 0.0000
+No.55 inf: الْبَرْزَخَيْن lemma: بَرْزَخٌ feat: N;DU;DEF;INFM my_ans: بَرْزَخ MASC;ACC;INFM;DEF;DU;ADJ;N weight: 0.0000
+No.56 inf: جَانَسْنَ lemma: جَانَسَ feat: V;3;PL;FEM;PST;PRF;IND;ACT my_ans: جَانَ IPFV;PL;3;IND;PASS;V;FEM weight: 0.0000
+No.57 inf: تُجْلَدُ lemma: أَجْلَدَ feat: V;3;SG;FEM;IPFV;IND;PASS my_ans: جْلَدَ IPFV;MASC;2;DU;3;ACT;IND;PASS;V;SG weight: 0.0000
+No.58 inf: تُدْعَوْا lemma: دَعَا feat: V;2;PL;MASC;SBJV;PASS my_ans: دْعَى IPFV;MASC;2;PL;DU;3;PRF;ACT;PST;IND;V weight: 0.0000
+No.59 inf: مِنْبَرَيْ lemma: مِنْبَرٌ feat: N;DU;PSSD;ACC my_ans: مِنْبَرٌ PSSD;ACC;N;DU weight: 0.0000
+No.60 inf: الْوَاسِعُ lemma: الْوَاسِع feat: ADJ;SG;MASC;DEF;NOM my_ans: وَاسِع MASC;ACC;DEF;SG;NOM;DU;ADJ;N weight: 0.0000
+No.61 inf: تُثَرْثِرْنَ lemma: ثَرْثَرَ feat: V;2;PL;FEM;LGSPEC1;ACT my_ans: ثَرْثِرْنَ IPFV;2;PL;1;DU;ACT;IND;PASS;V;SBJV weight: 0.0000
+No.62 inf: إِمْبَرَاطُورِيَّاتُ lemma: إِمْبَرَاطُورِيَّةٌ feat: N;PL;PSSD;NOM my_ans: إِمْبَرَاطُورِيَّةٌ PSSD;NOM;PL;N weight: 0.0000
+No.63 inf: سَقَوْا lemma: سَقَى feat: V;3;PL;MASC;PST;PRF;IND;ACT my_ans: سَقَى MASC;PL;PRF;3;ACT;PST;IND;V weight: 0.0000
+No.64 inf: خُرْطُومَيْن lemma: خُرْطُومٌ feat: N;DU;NDEF;INFM my_ans: خُرْطُوم MASC;INFM;DEF;DU;ADJ weight: 0.0000
+No.65 inf: تُطَاوِعُ lemma: طَاوَعَ feat: V;2;SG;MASC;IPFV;IND;ACT my_ans: طَاوِع IPFV;MASC;2;DEF;NOM;DU;ACT;IND;ADJ;V;SG weight: 0.0000
+No.66 inf: مُتَدَاوَلَانِ lemma: الْمُتَدَاوَل feat: ADJ;DU;MASC;NDEF;NOM my_ans: اِتَدَاوَلَ IPFV;2;V.PTCP;DU;ACT;IND;PASS;V weight: 0.0000
+No.67 inf: أَيُونَانِ lemma: أَيُونٌ feat: N;DU;NDEF;NOM my_ans: يُونوَس MASC;NDEF;NOM;DU;ADJ;PL;N weight: 0.0000
+No.68 inf: فُسْفُور lemma: فُسْفُورٌ feat: N;SG;PSSD;INFM my_ans: فُسْفُور  weight: 0.0000
+No.69 inf: قَوْلٌ lemma: قَوْلٌ feat: N;SG;NDEF;NOM my_ans: قَوْلٌ  weight: 0.0000
+No.70 inf: اِسْتَهْدَفُوا lemma: اِسْتَهْدَفَ feat: V;3;PL;MASC;PST;PRF;IND;ACT my_ans: سْتَهْدَفَى MASC;2;PL;DU;ACT;V;IMP weight: 0.0000
+No.71 inf: أُسَامَةَ lemma: أُسَامَةُ feat: N;SG;NDEF;ACC my_ans: أَسَاٌ ACC;PL;SG;1;DEF;PRF;PST;IND;PASS;V;N weight: 0.0000
+No.72 inf: أُوقِنَتْ lemma: أَيْقَنَ feat: V;3;SG;FEM;PST;PRF;IND;PASS my_ans: أَوقِنَ PL;1;PRF;3;ACT;PST;IND;PASS;V;SG;FEM weight: 0.0000
+No.73 inf: فِنْطَاسِ lemma: فِنْطَاسٌ feat: N;SG;PSSD;GEN my_ans: فِنْطَاسِ  weight: 0.0000
+No.74 inf: مِزْمَارُ lemma: مِزْمَارٌ feat: N;SG;PSSD;NOM my_ans: مِزْمََ IPFV;PL;1;IND;PASS;V weight: 0.0000
+No.75 inf: يُثَبَّطُو lemma: ثَبَّطَ feat: V;3;PL;MASC;LGSPEC1;PASS my_ans: ثَبَّطٌ MASC;IPFV;PL;NOM;DU;3;ACT;PSSD;IND;V;N weight: 0.0000
+No.76 inf: أَسْخَنَيْن lemma: الْأَسْخَن feat: ADJ;DU;MASC;NDEF;INFM my_ans: سْخَن MASC;INFM;NDEF;NOM;DEF;DU;ADJ;PL;N weight: 0.0000
+No.77 inf: الْبَطَاطَةَ lemma: بَطَاطَةٌ feat: N;SG;DEF;ACC my_ans: بَطَاط ACC;DEF;SG;DU;ADJ;N;FEM weight: 0.0000
+No.78 inf: كُوَارْكَ  الْقَعْرِيَّ lemma: كُوَارْكٌ قَعْرِيٌّ feat: N;SG;PSSD;ACC my_ans: كُوَارْكَ  الْقَعْرِي MASC;ACC;DEF;ADJ;SG weight: 0.0000
+No.79 inf: تَلْفَزْتِ lemma: تَلْفَزَ feat: V;2;SG;FEM;PST;PRF;IND;ACT my_ans: التَّلْفَزَ 2;GEN;NDEF;DU;PRF;ACT;PST;IND;ADJ;V;SG;FEM weight: 0.0000
+No.80 inf: الشَّطَطُ lemma: شَطَطٌ feat: N;SG;DEF;NOM my_ans: شَطَط MASC;INFM;DEF;NOM;ADJ;N;SG weight: 0.0000
+No.81 inf: ضُويِقْتُمْ lemma: ضَايَقَ feat: V;2;PL;MASC;PST;PRF;IND;PASS my_ans: ضُويِقَ MASC;2;PL;PRF;ACT;PST;IND;V weight: 0.0000
+No.82 inf: الْمَطْبَخَيْنِ lemma: مَطْبَخٌ feat: N;DU;DEF;GEN my_ans: مَطْبَخ MASC;ACC;DEF;DU;ADJ;N weight: 0.0000
+No.83 inf: الْمُتَرَبِّيَ lemma: الْمُتَرَبِّي feat: ADJ;SG;MASC;DEF;ACC my_ans: مُتَرَبِّي MASC;ACC;DEF;SG;DU;ADJ;N weight: 0.0000
+No.84 inf: بِسَاطَيْنِ lemma: بِسَاطٌ feat: N;DU;NDEF;ACC my_ans: بِسَاط MASC;ACC;DEF;DU;ADJ weight: 0.0000
+No.85 inf: حَوْقَلْتُمْ lemma: حَوْقَلَ feat: V;2;PL;MASC;PST;PRF;IND;ACT my_ans: حَوْقَلَ MASC;2;PL;PRF;ACT;PST;IND;V weight: 0.0000
+No.86 inf: نَأْوِيَ lemma: أَوَى feat: V;1;PL;SBJV;ACT my_ans: أَوِي MASC;ACC;PL;DEF;1;ACT;ADJ;V;SG;SBJV weight: 0.0000
+No.87 inf: زُحِرْنَا lemma: زَحَرَ feat: V;1;PL;PST;PRF;IND;PASS my_ans: زَحِرَ PL;1;PRF;3;ACT;PST;IND;PASS;V;FEM weight: 0.0000
+No.88 inf: جِبْتُمَا lemma: جَابَ feat: V;2;DU;PST;PRF;IND;PASS my_ans: جِبَ 2;PRF;DU;ACT;PST;IND;V weight: 0.0000
+No.89 inf: يُفْتَكَرُونَ lemma: اِفْتَكَرَ feat: V;3;PL;MASC;IPFV;IND;PASS my_ans: فْتَكَرُونَ MASC;IPFV;PL;1;DU;3;ACT;IND;PASS;V;SBJV weight: 0.0000
+No.90 inf: الرَّدِيئَات lemma: الرَّدِيء feat: ADJ;PL;FEM;DEF;INFM my_ans: رَّدِيئ INFM;DEF;NOM;DU;ADJ;PL;N;FEM weight: 0.0000
+No.91 inf: تُصَوِّبَ lemma: صَوَّبَ feat: V;3;SG;FEM;SBJV;ACT my_ans: صَوِّبَ IPFV;MASC;2;DU;ACT;IND;PASS;V;SG;SBJV weight: 0.0000
+No.92 inf: تَثُرْ lemma: ثَارَ feat: V;3;SG;FEM;LGSPEC1;ACT my_ans: التَّثُرْ GEN;NDEF;DU;ADJ;FEM weight: 0.0000
+No.93 inf: وَحْدَانِيًّا lemma: الْوَحْدَانِي feat: ADJ;SG;MASC;NDEF;ACC my_ans: وَحْدَانَانِي MASC;ACC;NDEF;ADJ;SG weight: 0.0000
+No.94 inf: تَجْنِيس lemma: تَجْنِيسٌ feat: N;SG;PSSD;INFM my_ans: التَّجْنِيس GEN;NDEF;DU;ADJ;FEM weight: 0.0000
+No.95 inf: خَلِيفٌ lemma: خَلِيفٌ feat: N;SG;NDEF;NOM my_ans: خَلِيفٌ  weight: 0.0000
+No.96 inf: تَغِيبَ lemma: غَابَ feat: V;3;SG;FEM;SBJV;ACT my_ans: التَّغِيبَ MASC;2;GEN;SBJV;NDEF;DU;PASS;ADJ;V;SG;FEM weight: 0.0000
+No.97 inf: شَرِيطَيْ lemma: شَرِيطٌ feat: N;DU;PSSD;INFM my_ans: الشَّرِيطٌ ACC;NDEF;DU;PSSD;ADJ;N;FEM weight: 0.0000
+No.98 inf: زَوَالٍ lemma: زَوَالٌ feat: N;SG;NDEF;GEN my_ans: الزَّوَالٌ ACC;GEN;NDEF;SG;DU;ADJ;N;FEM weight: 0.0000
+No.99 inf: تَسْتَكِفَّا lemma: اِسْتَكَفَّ feat: V;2;DU;SBJV;ACT my_ans: التَّسْتَكِف GEN;NDEF;DU;3;PASS;ADJ;V;FEM;LGSPEC1 weight: 0.0000
+language: arabic 正确率（仅匹配lemma）： 0.0800

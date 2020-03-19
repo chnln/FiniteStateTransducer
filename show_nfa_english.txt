@@ -1,4 +1,4 @@
- __EPSION__ -> __EPSION__ + 
+ __EPSION__ ->  + 
   ^Australianize& -> Australianize + V;NFIN
   ^Bengalize& -> Bengalize + V;NFIN
   ^Danicise& -> Danicise + V;NFIN
@@ -212,28 +212,35 @@
   ^wuss& -> wuss + V;NFIN
   ^yesk& -> yesk + V;NFIN
   ^zincify& -> zincify + V;NFIN
- __EPSION__ -> __EPSION__ + 
- __EPSION__ -> __EPSION__ + 
-  d$ -> __EPSION__ + V;PST
-  ies$ -> y + V;3;SG;PRS
-  s$ -> __EPSION__ + V;3;SG;PRS
-  ed$ -> __EPSION__ + V;V.PTCP;PST
-  ied$ -> y + V;PST
-  ing$ -> e + V;V.PTCP;PRS
-  t$ -> ot + V;PST
-  ming$ -> __EPSION__ + V;V.PTCP;PRS
+ __EPSION__ ->  + 
+ __EPSION__ ->  + 
+  -ed$ -> __EPSION__ + V;V.PTCP;PST
   ank$ -> ink + V;PST
-  ozen$ -> eeze + V;V.PTCP;PST
-  olen$ -> eal + V;V.PTCP;PST
-  fying$ -> ty + V;V.PTCP;PRS
-  pt$ -> ep + V;PST
-  ole$ -> ele + V;PST
-  ood$ -> and + V;V.PTCP;PST
-  old$ -> ell + V;PST
-  eld$ -> old + V;V.PTCP;PST
-  ought$ -> uy + V;V.PTCP;PST
   at$ -> it + V;V.PTCP;PST
+  bing$ -> __EPSION__ + V;V.PTCP;PRS
   cken$ -> ke + V;V.PTCP;PST
+  d$ -> __EPSION__ + V;PST
+  ed$ -> __EPSION__ + V;PST
+  eld$ -> old + V;V.PTCP;PST
+  es$ -> __EPSION__ + V;3;SG;PRS
+  fying$ -> ty + V;V.PTCP;PRS
+  ged$ -> __EPSION__ + V;PST
+  ging$ -> __EPSION__ + V;V.PTCP;PRS
+  ied$ -> y + V;PST
+  ies$ -> y + V;3;SG;PRS
+  ing$ -> e + V;V.PTCP;PRS
+  ling$ -> __EPSION__ + V;V.PTCP;PRS
+  old$ -> ell + V;PST
+  ole$ -> ele + V;PST
+  olen$ -> eal + V;V.PTCP;PST
+  ood$ -> and + V;V.PTCP;PST
   orne$ -> ear + V;V.PTCP;PST
+  ought$ -> uy + V;V.PTCP;PST
+  ozen$ -> eeze + V;V.PTCP;PST
+  ped$ -> __EPSION__ + V;PST
+  pt$ -> ep + V;PST
+  s$ -> __EPSION__ + V;3;SG;PRS
+  t$ -> ot + V;PST
+  ting$ -> __EPSION__ + V;V.PTCP;PRS
   uck$ -> ick + V;V.PTCP;PST
   . -> __NO_CHANGE__ + 
