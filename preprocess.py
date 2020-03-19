@@ -1,6 +1,6 @@
 import re
 
-fd_train = r"C:\Users\chnln\Desktop\Course\李素建孙薇薇编译原理\homework\fst\task2_data"
+fd_train = r"\task2_data"
 lang_list = {"en": "english", "la": "latin", "ru": "russian", "na": "navajo", "ar": "arabic"}
 EPSILON = "__EPSION__"
 
