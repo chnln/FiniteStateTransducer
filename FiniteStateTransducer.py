@@ -8,7 +8,7 @@ EPSILON = "__EPSION__"
 NOCHANGE = "__NO_CHANGE__"
 default_weight = 0.1
 offset = 50  # 1
-language = lang_list["na"]  # set language
+language = lang_list["en"]  # set language
 
 
 def cal_weight(affix_list):
