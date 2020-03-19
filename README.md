@@ -1,6 +1,8 @@
 # Finite State Transducer in Morphology Analysis
 > TERM: 2020 Spring: Principles of Compilers, exercise about NFA
+>
 > AUTHOR: Nascent
+>
 > URL: https://github.com/chnln/FiniteStateTransducer
 
 ## 程序结构
