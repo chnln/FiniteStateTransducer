@@ -31,7 +31,8 @@
 ## 2 程序结构
 运行方法：`python FiniteStateTransducer.py`
 
-可在主程序主函数修改测试集语言，有标准输出和文件输出两份输出
+需要在preprocess.py文件中修改输入文件所在文件夹`task2_data`路径；
+另可在主程序主函数修改测试集语言，有标准输出和文件输出两份输出
 
 FiniteStateTransducer.py: 主程序
 - language: 设置训练集的语言
@@ -45,6 +46,7 @@ NFA.py: 实现Node类、NFA类和NFA中的搜索
 - show_nfa() 以层次结构展示NFA
 
 preprocess.py：实现提取词缀
+- fd_train 设置输入文件所在文件夹`task2_data`路径
 - get_affix_list(): 返回提取的前缀、后缀
 
 ## 3 运行效果（正确率）
